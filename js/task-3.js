@@ -31,4 +31,3 @@ builder.padEnd("^");
 console.log(builder.getValue()); // "^.^"
 builder.padBoth("=");
 console.log(builder.getValue()); // "=^.^="
-......StringBuilder.apply.apply.apply.apply.apply.apply.apply.apply.apply.
